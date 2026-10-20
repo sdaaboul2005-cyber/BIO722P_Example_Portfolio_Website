@@ -1,8 +1,11 @@
-site_name: Personal Portfolio
+site_name: Salma Daaboul Personal Portfolio
 
 theme:
   name: material
   language: en
+  pallette: 
+      primary: purple
+      accent: cream
   features:
     - content.tooltips
     - navigation.instant
@@ -38,3 +41,4 @@ nav:
 
   - Experience:
     -  Unix & Genomics: experience/Unix_and_Genomics.md
+    - My Experience: experience/My_Experience.md

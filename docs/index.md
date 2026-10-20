@@ -18,5 +18,5 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 | Degree | Institution | Dates | 
 | --- | --- | --- |
-| MSc Bioinformatics  | QMUL | 2024–2025 |
-| BSc Biochemistry | University of York | 2020–2024 |
+| MSc Bioinformatics  | QMUL | 2026–2027 |
+| BSc Genetics | University of Toronto | 2023–2026 |
