@@ -11,8 +11,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 | Role | Organisation | Dates | Example contribution |
 | --- | --- | --- | --- |
-| Summer Student | QMUL | Summer 2025 | Curated a small biological dataset and documented the workflow. |
-| Science Outreach Volunteer | QMUL | 2022–present | Developed activities introducing genetics to school students. |
+| Summer Student | UofT | Summer 2025 | Took courses. |
+| Science Acedemic tutor Volunteer | AlfajrulBassem | 2023–2025 | Tutored struggling kids. |
 
 ## Education 
 
